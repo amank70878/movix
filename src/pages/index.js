@@ -1,0 +1,5 @@
+export {default as Home} from "./home/Home.jsx"
+export {default as PageNotFound} from "./404/PageNotfound.jsx"
+export {default as SearchResult} from "./searchResult/SearchResult.jsx"
+export {default as  Explore} from "./explore/Explore.jsx"
+export {default as  Details} from "./details/Details.jsx"
